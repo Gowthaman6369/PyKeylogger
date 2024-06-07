@@ -10,7 +10,7 @@
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/keylogger.git
+    git clone https://github.com/Gowthaman6369/keylogger.git
     cd keylogger
     ```
 
